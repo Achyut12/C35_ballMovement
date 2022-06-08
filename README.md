@@ -1,2 +1,2 @@
-# C35_ballMovement
-connect to realtime database( google firebase)
+# C35_SynchronousBallMoment_StudentActivity
+Student Activity
